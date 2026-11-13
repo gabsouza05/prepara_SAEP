@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O **TaskFlow** é um sistema de gerenciamento de tarefas desenvolvido como parte da avaliação prática do SAEP.
+O **TaskFlow** é um sistema de gerenciamento de tarefas desenvolvido como parte do simulado prático do SAEP.
 
 O objetivo do sistema é facilitar a organização e o acompanhamento de atividades, permitindo cadastrar usuários, registrar tarefas e acompanhar seu andamento por meio de um quadro Kanban.
 
